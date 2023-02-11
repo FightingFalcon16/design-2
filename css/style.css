@@ -779,3 +779,10 @@ a {
     padding: 1rem 0rem;
 }
 
+.footer1 p {
+    padding: 2rem 2rem;
+    background-color: lightgreen;
+    color: black;
+    font: normal 500 18px/33px Poppins, sans-serif;
+}
+
