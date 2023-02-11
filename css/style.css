@@ -54,6 +54,7 @@ a {
 #header {
     width: 100%;
     padding: 20px 0px;
+    background-color: lightcoral;
 }
 #header .costum_header{
     width: 100%;
@@ -165,7 +166,7 @@ a {
 .banner_section {
     width: 100%;
     padding: 5rem 0rem;
-    background-color: #fafafa;
+    background-color: #c1fffa;
 }
 
 .banner_img {
@@ -290,6 +291,7 @@ a {
 
 #services {
     padding: 6rem 0rem;
+    background-color: #c1fffa;
 }
 
 #services > .container > h1 {
@@ -352,6 +354,7 @@ a {
 
 #providing {
     padding-bottom: 4rem;
+    background-color: #c1fffa;
 }
 
 #providing > h1 {
@@ -423,6 +426,7 @@ a {
 
 #choose {
     padding-bottom: 6rem;
+    background-color: #c1fffa;
 }
 
 #choose > h1 {
@@ -500,6 +504,7 @@ a {
 
 #testimonial {
     padding-bottom: 6rem;
+    background-color: #c1fffa;
 }
 
 #testimonial > h1 {
@@ -777,5 +782,12 @@ a {
     color: #ffffff;
     text-align: center;
     padding: 1rem 0rem;
+}
+
+.footer1 p {
+    padding: 2rem 2rem;
+    background-color: lightgreen;
+    color: black;
+    font: normal 500 18px/33px Poppins, sans-serif;
 }
 
