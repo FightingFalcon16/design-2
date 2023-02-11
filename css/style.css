@@ -80,11 +80,11 @@ a {
 
 #header .contact_menu a {
     font: normal 400 18px/33px Poppins, sans-serif;
-    color: #060606;
+    color: #f10000;
 }
 
 #header .contact_menu li a:hover{
-    color: #0c426e;
+    color: #f0f0f0;
 }
 
 #header img:not(.toggle_icon > img){
