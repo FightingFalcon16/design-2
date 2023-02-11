@@ -1,0 +1,333 @@
+@media screen and (min-width : 576px) and (max-width : 767.98px){
+    
+    #header {
+        padding: 10px 0px;
+    }
+
+    #header .logo {
+        width: 50%;
+    }
+
+    #header .logo img {
+        width: 90px;
+        height: 55px;
+    }
+
+    #header .menu_text {
+        width: 50%;
+    }
+
+    #header .contact_menu {
+        display: none;
+    }
+
+    /*......Banner Section.......*/
+    .banner_section {
+        width: 100%;
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+    }
+
+    .banner_section .banner_taital {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .banner_section .banner_text {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .banner_section .btn_main {
+        padding-top: 15px;
+        padding-bottom: 30px;
+    }
+
+    .quote_bt, .contact_bt {
+        width: 130px;
+    }
+    
+    .quote_bt a, .contact_bt a { 
+        padding: 8px 10px;
+        font-size: 16px;
+    }
+
+    .banner_img {
+        height: 300px;
+    }
+
+    #main_slider a.carousel-control-prev,
+    #main_slider a.carousel-control-next {
+        display: none;
+    }
+
+    /*.....Services Section.......*/
+
+    #services .services_section_2 {
+        padding-top: 0rem;
+    }
+
+    #services .services_box > h4 {
+        padding-top: 3rem;
+    }
+
+    #services .services_box  img {
+        width: 75%;
+        display: block;
+        margin: auto;
+    }
+
+    #services .services_section_2 .no-gutters > .col-md-4:nth-child(2) > .services_box {
+        margin-top: 1rem;
+    }
+
+    #providing > h1 {
+        font: normal 700 24px Poppins, sans-serif;
+    }
+
+    /*.........Testimonial Section..........*/
+    #my_slider a.carousel-control-prev,
+    #my_slider a.carousel-control-next {
+        display: none;
+
+    }
+
+    #testimonial .testimonial_box {
+        width: 100%;
+        flex-direction: column;
+        background-color: #ffffff;
+    }
+    
+    #testimonial .client_image_section {
+        width: 100%;
+    }
+
+    .client_text_section{
+        width: 100%;
+    }
+
+    #testimonial .client_image_section > img {
+        width: 100px;
+        height: 150px;
+        border-radius: 100% 100%;
+        display: block;
+        margin: auto;
+    }
+
+    #testimonial .client_text_section {
+        text-align: center;
+    }
+
+    /*.......Footer........*/
+    #footer h2 {
+        text-align: center;
+    }
+    #footer .list-unstyled li {
+        text-align: center;
+    }
+    
+}
+
+ @media screen and (min-width : 768px) and (max-width : 991.98px){
+    
+    #header {
+        padding: 15px 0px;
+    }
+
+    #header .contact_menu li {
+        padding: 0px 8px;
+    }
+
+    #header .contact_menu a {
+        font: normal 500 14px/27px Poppins, sans-serif;
+    }
+
+    #header img:not(.toggle_icon > img){
+        padding-right: 12px;
+    }
+
+    #header .logo img {
+        width: 90px;
+        height: 60px;
+    }
+    #header .menu_text {
+        background-color: #fafafa;
+    }
+
+    /*......Banner Section.......*/
+    .banner_section {
+        width: 100%;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+
+    .banner_section .banner_taital {
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .banner_section .banner_text {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 30px;
+    }
+
+    .banner_section .btn_main {
+        padding-top: 15px;
+        padding-bottom: 30px;
+    }
+
+    .quote_bt, .contact_bt {
+        width: 130px;
+    }
+    
+    .quote_bt a, .contact_bt a { 
+        padding: 8px 10px;
+        font-size: 16px;
+    }
+
+    .banner_img {
+        height: 300px;
+    }
+
+    #main_slider a.carousel-control-prev,
+    #main_slider a.carousel-control-next {
+        display: none;
+    }
+
+    /*........Services Section.........*/
+    #services .services_box > h4 {
+        padding-top: 0rem;
+    }
+    
+    #services .services_box > p {
+        font: normal 300 12px/24px Poppins, sans-serif;
+        padding: 0rem 1rem;
+    }
+
+    /*.........Choose Us........*/
+    
+    #choose .choose_us_2 .num_wrapper {
+        padding: 2rem 1rem;
+    }
+    #choose .choose_us_2 .num_wrapper > .number {
+        width: 30px;
+        height: 25px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    
+    #choose .choose_us_2 .num_wrapper > .number_para {
+        font-size: 14px;
+        padding-left: 5px;
+        font-weight: 600;
+    }
+    
+    #choose .choose_us_2 .num_wrapper > p {
+        font: normal 300 12px/24px Poppins, sans-serif;
+    }
+
+    /*......Testimonial Section..........*/
+    #my_slider a.carousel-control-prev {
+        position: absolute;
+        top: 25%;
+    }
+    
+    #my_slider a.carousel-control-next {
+        position: absolute;
+        top: 25%;
+    }
+
+    #testimonial .testimonial_box {
+        width: 100%;
+        flex-direction: column;
+        background-color: #ffffff;
+    }
+    
+    #testimonial .client_image_section {
+        width: 100%;
+    }
+
+    .client_text_section{
+        width: 100%;
+    }
+
+    #testimonial .client_image_section > img {
+        width: 100px;
+        height: 150px;
+        border-radius: 100% 100%;
+        display: block;
+        margin: auto;
+    }
+
+    #testimonial .client_text_section {
+        text-align: center;
+    }
+
+
+}
+
+@media screen and (min-width : 992px) and (max-width : 1199.98px){
+    
+    #header {
+        padding: 15px 0px;
+    }
+
+    #header .contact_menu li {
+        padding: 0rem 1.3rem;
+    }
+
+    #header img:not(.toggle_icon > img){
+        padding-right: 12px;
+    }
+
+    #header .logo img {
+        width: 90px;
+        height: 60px;
+    }
+
+    /*......Banner Section.......*/
+
+    .banner_section .banner_taital {
+        font-size: 70px;
+        line-height: 80px;
+    }
+
+    .banner_section .banner_text {
+        line-height: 30px;
+        padding: 6px 0px;
+    }
+
+    #main_slider a.carousel-control-prev {
+        position: absolute;
+        left: 42%;
+        top: 103%;
+    }
+    
+    #main_slider a.carousel-control-next {
+        position: absolute;
+        right: 42%;
+        top: 103%;
+    }
+
+    /*.......Services Section........*/
+    #services .services_box > p {
+        padding: 0rem 1rem;
+    }
+
+}
+
+@media screen and (min-width : 1200px) and (max-width : 1310px) {
+    
+    #main_slider a.carousel-control-prev {
+        position: absolute;
+        left: 42%;
+        top: 103%;
+    }
+    
+    #main_slider a.carousel-control-next {
+        position: absolute;
+        right: 42%;
+        top: 103%;
+    }
+}
